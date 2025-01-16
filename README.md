@@ -7,5 +7,4 @@ Project AI Virtual Mouse is a cutting-edge innovation aimed at revolutionizing h
 # Overview
 ![output_image1](https://github.com/alisha140202/AI_Virtual_Mouse/assets/102052712/2428cae5-c256-449f-b2ad-f993ca15d9c4)
 
-https://github.com/alisha140202/AI_Virtual_Mouse/assets/102052712/558e8e0e-78b0-4681-b2cc-3e6eedb5499e
-
+[Video Demo](https://drive.google.com/file/d/1A8k_J_US7BCgj73Jp4DqFk8EObnLY1iF/view?usp=sharing)
